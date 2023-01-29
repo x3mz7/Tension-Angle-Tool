@@ -1,0 +1,8 @@
+deta==1.1.0
+numpy==1.22.4
+OrcFxAPI==11.3.2
+pandas==1.5.0
+plotly==5.10.0
+python-dotenv==0.21.1
+streamlit==1.16.0
+streamlit_option_menu==0.3.2

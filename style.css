@@ -1,0 +1,15 @@
+.stButton>button {
+    color: #6ef5ff;
+    border-radius: 30px;
+    background: #464e5f;
+    height: 3em;
+    width: auto;
+}
+
+.stTextInput>div>div>input {
+    color: #6ef5ff;
+}
+
+.css-pxxe24 {
+visibility: hidden;
+}
