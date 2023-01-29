@@ -1,5 +1,5 @@
 deta==1.1.0
-numpy==1.22.4
+numpy==1.21.6
 OrcFxAPI==11.3.2
 pandas==1.5.0
 plotly==5.10.0
